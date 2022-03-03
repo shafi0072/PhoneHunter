@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://png.pngtree.com/background/20210710/original/pngtree-business-chart-statistics-digital-print-ads-picture-image_1054220.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.phoneNotFound{
+    display: none;
+}
+#wrap{
+    display: none;
+}
+#RowHide{
+    display: none;
+
+}
+#RowHide2{
+    display: none;
+}
+#RowHide3{
+    display: none; 
+}
+#less{
+    display: none;
+}
+#spinner{
+    display: none;
+}
+.card{
+    background-color: #ffffffb8!important;
+}
